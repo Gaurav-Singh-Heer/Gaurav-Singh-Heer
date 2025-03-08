@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ### 🏅 Awards & Certifications
 - **Star Programmer** & **Dean’s List Member**
-- **Certifications**:
+<!-- - **Certifications**: -->
 
 ## 🎯 Goals
 - Expand my Tech Stack and gain Industrial Experience.
