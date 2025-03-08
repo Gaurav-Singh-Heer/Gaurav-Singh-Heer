@@ -13,7 +13,19 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - 💬 Ask me anything about **Python, JavaScript, or web development** – I love sharing and learning new things!  
 - 📫 Reach me at **[gauravheer2005@gmail.com](mailto:gauravheer2005@gmail.com)**.  
 - ⚡ Fun fact: I'm an **adventurous hiker** who enjoys exploring new places, learning about emerging technologies, and discovering creative hacks.  
+- ✨ **Experience**: Tackling bugs since 2023
+- 🎓 **Education**: Pursuing Bachelor of Engineering in Computer Science at Chitkara University Institute of Engineering & Technology
 ---
+
+### 🏅 Awards & Certifications
+- **Star Programmer** & **Dean’s List Member**
+- **Certifications**:
+
+## 🎯 Goals
+- Expand my Tech Stack and gain Industrial Experience.
+- Create and showcase a diverse portfolio of projects
+- Strengthen my Core knowledge of CS Fundamentals and System design
+- Focus on Critical thinking, Problem-solving and Logical/Mental Aptitude
 
 ## 🛠️ Technologies & Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Singh-Heer&layout=compact&theme=radical)
@@ -54,11 +66,21 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ---
 
-## 📫 Connect with Me
+<h2 align="center">🌍 Connect with Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurav-singh-heer-788804280/)
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:gauravheer2005@gmail.com)
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/gaurav-singh-heer-788804280/" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="50" alt="Email logo" />
+  </a>
+   &nbsp;&nbsp;&nbsp; 
+  <a href="https://leetcode.com/u/Gaurav_Singh_Heer/" target="_blank" title="LeetCode">
+    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" height="50" alt="LinkedIn logo" />
+  </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="mailto:gauravheer2005@gmail.com" target="_blank" title="Email">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="50" alt="LeetCode logo" />
+  </a>
+</div>
 ---
 
 
