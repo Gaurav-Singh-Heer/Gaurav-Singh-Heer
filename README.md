@@ -70,17 +70,16 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/gaurav-singh-heer-788804280/" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="50" alt="Email logo" />
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="50" alt="LinkedIn logo" style="margin: 0 10px;" />
   </a>
-   &nbsp;&nbsp;&nbsp; 
   <a href="https://leetcode.com/u/Gaurav_Singh_Heer/" target="_blank" title="LeetCode">
-    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" height="50" alt="LinkedIn logo" />
+    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" height="50" alt="LeetCode logo" style="margin: 0 10px;" />
   </a>
-   &nbsp;&nbsp;&nbsp;
   <a href="mailto:gauravheer2005@gmail.com" target="_blank" title="Email">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="50" alt="LeetCode logo" />
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="50" alt="Email logo" style="margin: 0 10px;" />
   </a>
 </div>
+
 ---
 
 
