@@ -6,98 +6,100 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 🌱 Currently exploring **Backend integration in web development** and **Advanced Data Structures and Algorithms in Java**.
-- 👯 Open to collaborating on **open-source projects** and **innovative ideas**.  
-- 💬 Ask me anything about **Python, JavaScript, or web development** – I love sharing and learning new things!  
-- 📫 Reach me at **[gauravheer2005@gmail.com](mailto:gauravheer2005@gmail.com)**.  
-- ⚡ Fun fact: I'm an **adventurous hiker** who enjoys exploring new places, learning about emerging technologies, and discovering creative hacks.  
-- ✨ **Experience**: Tackling bugs since 2023
-- 🎓 **Education**: Pursuing Bachelor of Engineering in Computer Science at Chitkara University Institute of Engineering & Technology
+```yaml
+- 🌱 Currently exploring: Backend integration & Advanced Data Structures in Java
+- 👥 Open to collaborating on open-source projects and innovative ideas
+- ❓ Ask me about: Python, JavaScript, Web Development
+- 📧 Contact me at: gauravheer2005@gmail.com
+- ⚡ Fun fact: I'm an adventurous hiker who loves tech & creative hacks
+- 🏆 Experience: Tackling bugs since 2023
+- 🎓 Education: Pursuing B.E. in Computer Science @ Chitkara University
+```
+
 ---
 
-### 🏅 Awards & Certifications
+## 🏅 Awards & Certifications  
 - **Star Programmer** & **Dean’s List Member**
-<!-- - **Certifications**: -->
 
-## 🎯 Goals
-- Expand my Tech Stack and gain Industrial Experience.
-- Create and showcase a diverse portfolio of projects
-- Strengthen my Core knowledge of CS Fundamentals and System design
-- Focus on Critical thinking, Problem-solving and Logical/Mental Aptitude
+---
 
-## 🛠️ Technologies & Tools
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Singh-Heer&layout=compact&theme=radical)
+## 🎯 Goals  
+- Expand my tech stack and gain industrial experience
+- Build and showcase a diverse portfolio of projects
+- Strengthen CS fundamentals & system design knowledge
+- Enhance problem-solving, logical reasoning, and aptitude
 
-### **Programming Languages**
+---
 
+## 🛠️ Technologies & Tools  
+
+### **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-### **Backend & Databases**
-
+### **Backend & Databases**  
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
 
-### **Frontend & UI Frameworks**
-
+### **Frontend & UI Frameworks**  
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![EJS](https://img.shields.io/badge/-EJS-333333?style=flat&logo=ejs)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)  
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
 
-### **Version Control & Tools**
-
+### **Version Control & Tools**  
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ---
 
-## 📈 GitHub Stats
-
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Singh-Heer&show_icons=true&theme=radical)
-
----
-
-<h2 align="center">🌍 Connect with Me</h2>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/gaurav-singh-heer-788804280/" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="50" alt="Email logo" />
-  </a>
-   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Gaurav_Singh_Heer/" target="_blank" title="LeetCode">
-    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" height="50" alt="LinkedIn logo" />
-  </a>
-   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:gauravheer2005@gmail.com" target="_blank" title="Email">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="50" alt="LeetCode logo" />
-  </a>
+## 📊 Coding Journey Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Singh-Heer&show_icons=true&theme=radical" alt="Gaurav's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Singh-Heer&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
 
+## 🔥 Streak & Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Singh-Heer&theme=radical" alt="GitHub Streak"/>
+</p>
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 🚀
+---
 
-<!--
-**Gaurav-Singh-Heer/Gaurav-Singh-Heer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-singh-heer-788804280/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Gaurav_Singh_Heer/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gauravheer2005@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav-Singh-Heer&theme=radical&column=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+Feel free to explore my repositories and reach out for collaboration! 🚀
+
