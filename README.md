@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 🚀 About Me  
 
-```yaml
+
 - 🌱 Currently exploring: Backend integration & Advanced Data Structures in Java
 - 👥 Open to collaborating on open-source projects and innovative ideas
 - ❓ Ask me about: Python, JavaScript, Web Development
@@ -16,13 +16,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - ⚡ Fun fact: I'm an adventurous hiker who loves tech & creative hacks
 - 🏆 Experience: Tackling bugs since 2023
 - 🎓 Education: Pursuing B.E. in Computer Science @ Chitkara University
-```
+
 
 ---
 
 ## 🏅 Awards & Certifications  
 - **Star Programmer** & **Dean’s List Member**
-
+<!-- - **Certifications**: -->
 ---
 
 ## 🎯 Goals  
@@ -55,11 +55,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
 
-### **Frontend & UI Frameworks**  
+### **Frontend & UI Frameworks**
+
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![EJS](https://img.shields.io/badge/-EJS-333333?style=flat&logo=ejs)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
 
@@ -84,14 +85,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ---
 
 ## 🌍 Connect with Me  
-<style>
-  a {
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: none;
-  }
-</style>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-singh-heer-788804280/" target="_blank">
@@ -118,3 +111,17 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 Feel free to explore my repositories and reach out for collaboration! 🚀
 
+<!--
+**Gaurav-Singh-Heer/Gaurav-Singh-Heer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
