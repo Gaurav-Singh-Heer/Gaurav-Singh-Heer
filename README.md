@@ -35,6 +35,14 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 🛠️ Technologies & Tools  
 
+<div align="center">
+  <table  style="border:0px solid white; width:100%;">
+    <tr style="border:0px;">
+      <th style="border:0px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Singh-Heer&layout=compact&bg_color=000&title_color=fff&text_color=fff&border_color=fff"/><th/>
+    <tr/>
+  </table>
+</div>
+
 ### **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
@@ -64,8 +72,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ## 📊 Coding Journey Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Singh-Heer&show_icons=true&theme=radical" alt="Gaurav's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Singh-Heer&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
@@ -78,6 +84,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ---
 
 ## 🌍 Connect with Me  
+<style>
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+</style>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-singh-heer-788804280/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
