@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ## 🚀 About Me  
 
 
-- 🌱 Currently exploring: Backend integration & Advanced Data Structures in Java
+- 🌱 Currently exploring: Backend integration, ReactJS with Firebase & Advanced Data Structures in Java
 - 👥 Open to collaborating on open-source projects and innovative ideas
 - ❓ Ask me about: Python, JavaScript, Web Development
 - 📧 Contact me at: gauravheer2005@gmail.com
