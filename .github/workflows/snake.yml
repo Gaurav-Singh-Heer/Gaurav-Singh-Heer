@@ -3,11 +3,10 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   build:
@@ -16,7 +15,19 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
-    
+
+      # NEW: Create output branch if it doesn't exist
+      - name: Create output branch if it doesn't exist
+        run: |
+          git fetch
+          if ! git show-ref --quiet refs/remotes/origin/output; then
+            git checkout --orphan output
+            git reset --hard
+            git commit --allow-empty -m "Initial output branch commit"
+            git push origin output
+            git checkout main
+          fi
+
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
@@ -27,7 +38,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Show build status
         run: git status
